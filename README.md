@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheodoricTheGreatest
-- 👀 I’m interested in Control Theory, Embedded Systems, Autonomous Systems. 
+- 👀 I’m interested in Control Theory, Embedded Programming, Autonomous Systems. 
 - 🌱 I’m currently learning how to use Git, Linux, and Python. 
 
 
